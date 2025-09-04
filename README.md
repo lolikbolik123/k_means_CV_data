@@ -1,2 +1,4 @@
 # k_means_CV_data
-k-means analysis of CV data 
+Python - 3.12.11
+Pandas - 2.2.2
+Numpy - 2.0.2
